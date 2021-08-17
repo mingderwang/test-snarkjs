@@ -1,0 +1,9 @@
+{
+  "name": "zkpoker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "circomlib": "^0.5.3"
+  }
+}
